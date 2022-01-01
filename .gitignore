@@ -1,0 +1,6 @@
+.vscode/
+*.zip
+*.mp4
+*.avi
+
+MOT16_eval
